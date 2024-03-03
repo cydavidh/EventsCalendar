@@ -6,7 +6,7 @@ Concepts and Practices used/practiced in the project:
 - queries with JPQL
 - exception handling with global exception handler
 - Hibernate Validator (Bena validation with @Valid)
-- used Oracle Database
+- setup for Oracle Database
 - integration test with H2 database
 - unit test with Junit and mockito.
 - Restful Api
