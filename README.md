@@ -1,6 +1,6 @@
 Concepts and Practices used/practiced in the project:
 
-- Jpa/Hibernate: entityManager (used Repository/spring data jpa before so I thought I'd practice using entityManager instead)
+- Jpa/Hibernate: entityManager (used Repository/spring data jpa before so I thought I'd practice this instead)
 - PersistenceContext
 - Transactional
 - queries with JPQL
