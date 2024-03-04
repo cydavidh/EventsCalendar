@@ -1,5 +1,6 @@
 Concepts and Practices used/practiced in the project:
 
+- N-tiered Architecture
 - Jpa/Hibernate: entityManager (used Repository/spring data jpa before so I thought I'd practice this instead)
 - PersistenceContext
 - Transactional
