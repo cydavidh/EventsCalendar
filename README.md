@@ -6,7 +6,7 @@ Concepts and Practices used/practiced in the project:
 - Transactional
 - queries with JPQL
 - exception handling with global exception handler
-- Hibernate Validator (Bena validation with @Valid)
+- Hibernate Validator (Bean validation with @Valid)
 - setup for Oracle Database
 - integration test with H2 database
 - unit test with Junit and mockito.
