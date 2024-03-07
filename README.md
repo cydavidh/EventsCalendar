@@ -13,8 +13,11 @@ Concepts and Practices used/practiced in the project:
 - Restful Api
 
 JPA/Hibernate: entityManager and queries with JPQL
+
 <img src="https://i.imgur.com/reswWJ5.png" width="600"/>
 Restful Api
+
 <img src="https://i.imgur.com/LQ8biHf.png" width="600"/>
 Oracle database
+
 <img src="https://i.imgur.com/Zq9gvLj.png" width="600"/>
